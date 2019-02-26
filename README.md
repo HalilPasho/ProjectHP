@@ -1,2 +1,0 @@
-# ProjectHP
-Test puproses
